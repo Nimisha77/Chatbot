@@ -1,0 +1,127 @@
+[
+  {
+    "id": "a6aeae79-bcac-4338-a65d-2f6ade7ce9f7",
+    "data": [
+      {
+        "text": "enjoy your holiday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "055df5d2-d7f9-4783-b6ce-953d2dacb353",
+    "data": [
+      {
+        "text": "have a great ",
+        "userDefined": false
+      },
+      {
+        "text": "weekend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0969e55-01c2-4570-b2f8-460d75ac359c",
+    "data": [
+      {
+        "text": "Have a great evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd4e693a-9ee9-4d68-8efe-a10187205bae",
+    "data": [
+      {
+        "text": "Have a great day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ce2a2cc-c3b3-437d-93e8-5dd00ff3fb5c",
+    "data": [
+      {
+        "text": "Have a good day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fecfd03-643b-4438-937e-26e9f8ac87f0",
+    "data": [
+      {
+        "text": "Thanks a lot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1756c8fc-c3dd-48ae-8351-b438927e79bb",
+    "data": [
+      {
+        "text": "thanks, ",
+        "userDefined": false
+      },
+      {
+        "text": "mate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f14e9db9-9684-4691-affe-275255065036",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1627fde-126a-4ddb-babf-37d684a1e4a8",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
